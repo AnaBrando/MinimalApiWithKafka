@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZFhZn914f+kmbecDXpX/3+QMfM0/pcKQmfHieJYCwe7rvBE9kSOzrtoMu/gwZfZqNPNQMg2DC6wGdOUe3TO9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anach\\OneDrive\\Documents\\Studing\\test\\TestProject3\\KafkaMinimalApi\\KafkaMinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anach\\.nuget\\packages\\confluent.kafka\\2.12.0\\confluent.kafka.2.12.0.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\librdkafka.redist\\2.12.0\\librdkafka.redist.2.12.0.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.10\\microsoft.bcl.asyncinterfaces.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.10\\microsoft.extensions.configuration.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.10\\microsoft.extensions.diagnostics.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\9.0.10\\microsoft.extensions.diagnostics.healthchecks.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\9.0.10\\microsoft.extensions.diagnostics.healthchecks.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.10\\microsoft.extensions.fileproviders.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.10\\microsoft.extensions.hosting.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.10\\microsoft.extensions.logging.abstractions.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.options\\9.0.10\\microsoft.extensions.options.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.10\\system.diagnostics.diagnosticsource.9.0.10.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\anach\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

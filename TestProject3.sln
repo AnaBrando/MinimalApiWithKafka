@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject3", "TestProject3\TestProject3.csproj", "{98F0A2C0-8CD1-4C3E-8A34-9F0BFD7B9C20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaMinimalApi", "KafkaMinimalApi\KafkaMinimalApi.csproj", "{F20A2DB5-D2FF-489F-BD4E-E5B4C3213E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F0A2C0-8CD1-4C3E-8A34-9F0BFD7B9C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F0A2C0-8CD1-4C3E-8A34-9F0BFD7B9C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F0A2C0-8CD1-4C3E-8A34-9F0BFD7B9C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F0A2C0-8CD1-4C3E-8A34-9F0BFD7B9C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20A2DB5-D2FF-489F-BD4E-E5B4C3213E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20A2DB5-D2FF-489F-BD4E-E5B4C3213E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20A2DB5-D2FF-489F-BD4E-E5B4C3213E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20A2DB5-D2FF-489F-BD4E-E5B4C3213E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
