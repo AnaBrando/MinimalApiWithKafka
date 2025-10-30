@@ -1,0 +1,56 @@
+﻿# Build outputs
+bin/
+obj/
+out/
+**/bin/
+**/obj/
+
+# Rider / VS / VSCode
+.vscode/
+.vs/
+.idea/
+
+# User settings
+*.user
+*.userosscache
+*.suo
+
+# Logs
+*.log
+logs/
+log/
+
+# Kafka local volumes (if you run Confluent locally)
+data/
+docker-data/
+docker-volumes/
+
+# Docker stuff
+*.pid
+*.pid.lock
+
+# Environment / secrets
+.env
+*.env
+.env.*
+secrets.json
+appsettings.Local.json
+appsettings.Development.Local.json
+
+# NuGet
+*.nupkg
+*.snupkg
+.packages/
+
+# OS garbage
+.DS_Store
+Thumbs.db
+
+# JetBrains caches
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Publish artifacts
+publish/
+dist/
